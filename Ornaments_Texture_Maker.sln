@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornaments_Texture_Maker", "Ornaments_Texture_Maker\Ornaments_Texture_Maker.csproj", "{63B2B389-7C44-46B9-B6AE-C56C1E0BDAF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B2B389-7C44-46B9-B6AE-C56C1E0BDAF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B2B389-7C44-46B9-B6AE-C56C1E0BDAF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B2B389-7C44-46B9-B6AE-C56C1E0BDAF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B2B389-7C44-46B9-B6AE-C56C1E0BDAF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89E1BE3F-D300-4C74-A8F4-67007EB3387C}
+	EndGlobalSection
+EndGlobal

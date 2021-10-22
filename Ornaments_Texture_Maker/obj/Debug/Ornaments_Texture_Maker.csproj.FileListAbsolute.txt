@@ -1,0 +1,9 @@
+C:\Users\allen\source\repos\Ornaments_Texture_Maker\Ornaments_Texture_Maker\bin\Debug\Ornaments_Texture_Maker.exe
+C:\Users\allen\source\repos\Ornaments_Texture_Maker\Ornaments_Texture_Maker\bin\Debug\Ornaments_Texture_Maker.pdb
+C:\Users\allen\source\repos\Ornaments_Texture_Maker\Ornaments_Texture_Maker\obj\Debug\Ornaments_Texture_Maker.csproj.AssemblyReference.cache
+C:\Users\allen\source\repos\Ornaments_Texture_Maker\Ornaments_Texture_Maker\obj\Debug\Ornaments_Texture_Maker.Form1.resources
+C:\Users\allen\source\repos\Ornaments_Texture_Maker\Ornaments_Texture_Maker\obj\Debug\Ornaments_Texture_Maker.Properties.Resources.resources
+C:\Users\allen\source\repos\Ornaments_Texture_Maker\Ornaments_Texture_Maker\obj\Debug\Ornaments_Texture_Maker.csproj.GenerateResource.cache
+C:\Users\allen\source\repos\Ornaments_Texture_Maker\Ornaments_Texture_Maker\obj\Debug\Ornaments_Texture_Maker.csproj.CoreCompileInputs.cache
+C:\Users\allen\source\repos\Ornaments_Texture_Maker\Ornaments_Texture_Maker\obj\Debug\Ornaments_Texture_Maker.exe
+C:\Users\allen\source\repos\Ornaments_Texture_Maker\Ornaments_Texture_Maker\obj\Debug\Ornaments_Texture_Maker.pdb
