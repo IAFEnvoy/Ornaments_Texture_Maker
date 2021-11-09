@@ -23,13 +23,13 @@ namespace Ornaments_Texture_Maker
             if (ofd.ShowDialog() != DialogResult.OK) return;
             Image input = Image.FromFile(ofd.FileName);
             int scale = 1;
-            while (input.Width >= 20 * scale && input.Height >= 20 * scale) scale += 1;
+            while (input.Width >= 20 * scale && input.Height >= 40 * scale) scale += 1;
             scale -= 1;
             if (scale == 0) return;
             Bitmap output = new Bitmap(64 * scale, 64 * scale);
             Graphics g = Graphics.FromImage(output);
             g.Clear(Color.FromArgb(50, 50, 50));
-            g.DrawImage(input, scale + 1, scale + 1, scale * 20, scale * 40);
+            g.DrawImage(input, scale, scale, scale * 20, scale * 40);
             g.Save();
             SaveFileDialog sfd = new SaveFileDialog();
             sfd.Filter = "*.png|*.png";
